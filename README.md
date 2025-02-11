@@ -2,7 +2,7 @@
 
 These are some of the projects I worked on in semester 3 while studying at the Electronics Engineering Polytechnic Institute of Surabaya Applied Data Science study program
 
-##Analisis UMP di Indonesia
+## Analisis UMP di Indonesia
 
 This project creates a dashboard using the Power BI application which you can get from Microsoft
 
